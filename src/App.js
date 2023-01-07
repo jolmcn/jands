@@ -1,11 +1,11 @@
-import img from './iou.png';
+// import img from './iou.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <img className="headerImage" src={img} alt="headerImg"></img>
+      {/* <img className="headerImage" src={img} alt="headerImg"></img> */}
         <p>
           Dear Shan, Happy Birthday.<br />
           I love you so much, and I'm so excited (and terrified) about all the big things we're planning to do this year.<br /><br />
